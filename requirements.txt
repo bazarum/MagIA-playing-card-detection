@@ -1,2 +1,7 @@
-
+numpy
+opencv-python
+matplotlib
+imgaug
+shapely
+tqdm
 
